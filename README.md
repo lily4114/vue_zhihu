@@ -2,10 +2,7 @@
 
 > 简单例子：知乎仿写
 
-所用技术：
-1.nginx服务器
-2.vue+router+vuex
-3.mint ui
+vue+router+vuex+axios
 
 ## Build Setup
 
